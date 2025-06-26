@@ -14,7 +14,7 @@
 
 ## 📌 Projets mis en avant
 
-- 🔗 [Comotorage](https://github.com/othnielaguidi/comotorage) – Plateforme de covoiturage universitaire avec Flask & Vue.js  
+- 🔗 [Comotorage](https://github.com/Brivice-07/PIL1_2425_35) – Plateforme de covoiturage universitaire avec Flask & Vue.js  
 - 🌍 [Site Portfolio](https://othnielaguidi.github.io) – Mon portfolio personnel et mes coordonnées  
 - 🎨 [Galerie Design](https://github.com/othnielaguidi/designs) – Logos, maquettes UI et projets créatifs  
 
